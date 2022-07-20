@@ -1,6 +1,6 @@
 # Holang interpreter
 
-Holang interpreter was created as a solution to a large assignment to the large assignment for the "Programming languages and paradigms" course at the University of Warsaw.
+Holang interpreter was created as a solution to the large assignment for the "Programming languages and paradigms" course at the University of Warsaw.
 
 ## Description
 Holang is a Go-like, imperative, statically typed language. Most of its syntax takes from Go, although there are some modifications. Its interpreter is implemented in Haskell.
